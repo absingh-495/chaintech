@@ -89,10 +89,10 @@ a:hover{
   align-items: center;
 } */
 
- 
+/*  
 section{
   display: block;
-}
+} */
   
 /* 
   h2{
@@ -106,13 +106,17 @@ section{
 
 /*card section*/
 
+.wrapper{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 .card{
-  display: inline-block;
   margin: 2px 5px;
-   
-  background-color: rgb(17, 16, 16);
-  width: 200px;
-  height: 300px;
+  background-color: rgb(39, 207, 27);
+  
+  width: 200px; /*just for now = 100%*/
+   height: 300px; /*just for now = remove*/
   
 }
 
