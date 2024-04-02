@@ -7,7 +7,7 @@
 body{
   font-family: roboto;
   /* background-color: #1F1F1F; */
-  height: 900px;
+  height: 300vh;
 }
 
 /* header */
@@ -103,3 +103,16 @@ section{
    display: flex;
  }
  */
+
+/*card section*/
+
+.card{
+  display: inline-block;
+  margin: 2px 5px;
+   
+  background-color: rgb(17, 16, 16);
+  width: 200px;
+  height: 300px;
+  
+}
+
