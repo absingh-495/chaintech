@@ -104,17 +104,21 @@ a:hover{
 }
 
 .wrapper-2{
-  margin-top: 10px;
+  margin-top: 13px;
 }
 
 .wrapper-1 , .wrapper-2 p{
   font-weight: 700;
- 
+}
+
+.Blockchain{
+  padding-top: 2rem;
+
 
 }
 
 .card-image{
-  padding-top:5.5rem ;
+  padding-top:3.1rem;
 }
 
 .card-1 , .card-2 ,.card-3 ,.card-4{
@@ -128,6 +132,8 @@ a:hover{
    height: 300px; /* just for now = remove */
   
 }
+
+
 
 .card-1{
   background-color:#9ae3bb;
