@@ -169,8 +169,6 @@ a:hover{
   
 }
 
-
-
 .footer {
   display: flex;
   flex-direction: column;
@@ -184,6 +182,8 @@ a:hover{
   color: white;
   text-align: center;
 }
+
+
 
 
 
